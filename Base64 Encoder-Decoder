@@ -9,8 +9,8 @@ Options
 -i      Number of iterations of encoding you want applied or decoding.
 -v      Verbose mode to see the result of each iteration of encoding or decoding.
 
-Example usage of encoding: python EncDec.py -s "Encode my string" -o encode -i 5 -v True
-Example usage of decoding: python EncDec.py -s UTJoeWFYTT0= -o decode -i 5 -v True
+Example usage of encoding: python3 EncDec.py -s "Encode my string" -o encode -i 5 -v True
+Example usage of decoding: python3 EncDec.py -s UTJoeWFYTT0= -o decode -i 5 -v True
 
 
 """
